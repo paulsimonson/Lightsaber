@@ -154,3 +154,8 @@ https://www.aliexpress.com/item/Power-Adapter-AC-to-DC-100-240V-Supply-Charger-a
     BATTERY_SAFE 1      // battery monitoring (1 - allow, 0 - disallow)
 
     DEBUG 0             // debug information in Serial (1 - allow, 0 - disallow)
+
+
+## Hilt
+If I had the time...
+https://youtu.be/e-HF0BOmt70
