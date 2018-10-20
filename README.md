@@ -80,6 +80,8 @@ https://www.aliexpress.com/item/GREATZT-1Pcs-Micro-SD-Storage-Expansion-Board-Mi
 
 * Batteries 18650 with protection http://ali.pub/23moiu  http://ali.pub/23moke  http://ali.pub/23mol6
 
+These are probably not a good idea if building a toy for kids...
+
 https://www.aliexpress.com/item/3-PCS-lot-100-Brand-New-Original-NCR18650B-3-7-v-3400mah-18650-Li-ion-Rechargeable/32324926502.html?spm=2114.search0604.3.1.6cde6339vQ8T0I&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_5910015_10130_5723115_10547_5723715_10546_5890015_10548_5724715_5723815_315_10545_10696_5723215_5724015_5723415_531_10084_5722215_10083_5970015_10618_5724315_10307_5724215_5724115_5723315_5723615_5722315_10059_5723015_5722115_5860016_100031_5723915_5725015_10103_5725115_5980015_5724915_5990015_5722415,searchweb201603_16,ppcSwitch_3&algo_expid=cf919a0c-aa36-4680-82eb-e14b3e971f25-0&algo_pvid=cf919a0c-aa36-4680-82eb-e14b3e971f25&transAbTest=ae803_2&priceBeautifyAB=0
 
 * DCDC Step Down http://ali.pub/23mpex  http://ali.pub/23mpfi  http://ali.pub/23mph9
@@ -105,9 +107,9 @@ https://www.aliexpress.com/item/Dropshipping-5-5-mm-x-2-1mm-DC-Power-Jack-Socket
 
 * CC CV charger for 3 cells http://ali.pub/23mt8s  http://ali.pub/23mt9d  http://ali.pub/23mt9k
 
-Get 12V 1 amp 2.1 mm x 5.5 mm adapter:
+Get 12.6V 1 amp 2.1 mm x 5.5 mm adapter.  It has to be CC CV.
 
-https://www.aliexpress.com/item/Power-Adapter-AC-to-DC-100-240V-Supply-Charger-adapter-5V-12V-9V-1A-2A-3A/32893641758.html?spm=2114.search0604.3.23.62db1e98oQxS5G&s=p&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_5910015_10130_5723115_10547_5723715_10546_5890015_10548_5724715_5723815_315_10545_10696_5723215_5724015_5723415_531_10084_5722215_10083_5970015_10618_5724315_10307_5724215_5724115_5723315_5723615_5722315_10059_5723015_5722115_5860016_100031_5723915_5725015_10103_5725115_5980015_5724915_5990015_5722415,searchweb201603_16,ppcSwitch_3&algo_expid=dff4b590-cfaa-45a7-a6ef-ff7b10849ac6-3&algo_pvid=dff4b590-cfaa-45a7-a6ef-ff7b10849ac6&transAbTest=ae803_2&priceBeautifyAB=0
+
 
 * Prototype board http://ali.pub/23mrwy  
 
