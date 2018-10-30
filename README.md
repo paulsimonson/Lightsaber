@@ -3,7 +3,6 @@
 This is my fork from GyverSaber.
 
 
-[![MadGyver YouTube](http://alexgyver.ru/git_madgyver.jpg)](https://www.youtube.com/channel/UCNEOyqhGzutj-YS-d5ckYdg?sub_confirmation=1)
 # GyverSaber - Arduino based multicolor sound playing lightsaber
 * [Project description](#chapter-0)
 * [Folders](#chapter-1)
@@ -20,7 +19,7 @@ https://youtu.be/__gp2RfTMnk
 * Smooth turning on/off with lightsaber-like sound effect
 * Randomly pulsing color (you can turn it off)
 * Sounds:
-  + MODE 1: generated hum. Frequency depends on angle velocity of blade
+  + MODE 1: generated hum. Frequency depends on anglular velocity of blade
   + MODE 2: hum sound from SD card
     - Slow swing - long hum sound (randomly from 4 sounds)
     - Fast swing - short hum sound (randomly from 5 sounds)
