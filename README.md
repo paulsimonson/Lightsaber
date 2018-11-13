@@ -132,7 +132,7 @@ Get 12.6V 1 amp 2.1 mm x 5.5 mm adapter.  It has to be CC CV.
 	+ 16-32 kHz
 	+ Mono
 	+ Use online converters or Total Audio Converter
-* Assemble schmeme
+* Assembly scheme
   - **WARNING!** If you are flashing **assembled scheme**, you must power up it! Arduino will not work correct with connected DCDC converter!
 * Enjoy!
 
