@@ -162,3 +162,8 @@ Get 12.6V 1 amp 2.1 mm x 5.5 mm adapter.  It has to be CC CV.
 ## Hilt
 If I had the time...
 https://youtu.be/e-HF0BOmt70
+
+
+## Other Arduino libraries to try...
+
+https://github.com/JakeS0ft/USaber
