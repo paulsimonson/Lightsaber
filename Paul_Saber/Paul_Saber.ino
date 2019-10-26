@@ -2,7 +2,7 @@
 ///- Using actual ground instead of ports set to low state.
 ///- Use of DFPlayer Mini to play sounds.
 ///- Initializing resistor constants as floats, not ints.
-///- General code clean-up, simplification, and clarification.
+///- General code clean-up, simplification, and clarification...
 ///- Small bug corrections.
 ///- Elimination of tone based sounds.
 
@@ -43,8 +43,8 @@
 // ---------------------------- SETTINGS -------------------------------
 #define NUM_LEDS 54         // number of microcircuits WS2811 on LED strip (note: one WS2811 controls 3 LEDs!)
 #define BTN_TIMEOUT 800     // button hold delay, ms
-#define BRIGHTNESS 200      // max LED brightness (0 - 255)
-#define SPEAKER_VOLUME 25    //Depending on power source/amps, too high a volume causes the system to have errors.
+#define BRIGHTNESS 150      // max LED brightness (0 - 255)
+#define SPEAKER_VOLUME 20    //Depending on power source/amps, too high a volume causes the system to have errors.
 #define THRESHOLD_MODIFIER 0.9
 
 #define SWING_TIMEOUT 500   // timeout between swings
@@ -64,7 +64,7 @@
 float voltage_sensor_factor = VOLTAGE_CALIBRATION * 5.0 / 1023.0 * (R1 + R2) / R2;
 #define BATTERY_SAFE 1      // battery monitoring (1 - allow, 0 - disallow)
 
-#define DEBUG 1             // debug information in Serial (1 - allow, 0 - disallow)
+#define DEBUG 0             // debug information in Serial (1 - allow, 0 - disallow)
 // ---------------------------- SETTINGS -------------------------------
 
 #define LED_PIN 6
