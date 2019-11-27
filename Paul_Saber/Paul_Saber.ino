@@ -48,8 +48,8 @@
 #define THRESHOLD_MODIFIER 0.9
 
 #define SWING_TIMEOUT 500   // timeout between swings
-#define SWING_L_THR 175 * THRESHOLD_MODIFIER     // swing angle speed threshold
-#define SWING_THR 225 * THRESHOLD_MODIFIER      // fast swing angle speed threshold
+#define SWING_L_THR 100 * THRESHOLD_MODIFIER     // swing angle speed threshold
+#define SWING_THR 200 * THRESHOLD_MODIFIER      // fast swing angle speed threshold
 #define STRIKE_THR 75 * THRESHOLD_MODIFIER     // hit acceleration threshold
 #define STRIKE_S_THR 150 * THRESHOLD_MODIFIER   // hard hit acceleration threshold
 #define FLASH_DELAY 90      // flash time while hit
