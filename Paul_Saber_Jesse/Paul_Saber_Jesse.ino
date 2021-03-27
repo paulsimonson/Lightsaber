@@ -621,7 +621,7 @@ long voltage_measure() {
   else //assume 4 AA/AAA rechargeables
   {
       int volts = voltage * 100.0/4.0;    // 4 cells!!!
-      return map(volts, 100, 150, 0, 100);
+      return map(volts, 100, 130, 0, 100);
   }
 }
 

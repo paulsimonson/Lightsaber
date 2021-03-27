@@ -45,7 +45,7 @@
 // ---------------------------- SETTINGS -------------------------------
 #define NUM_LEDS 130         // number of microcircuits WS28xx on LED strip (note: one WS2811 controls 3 LEDs!)
 #define BTN_TIMEOUT 800     // button hold delay, ms
-#define BRIGHTNESS 60      // max LED brightness (0 - 255) max 44 for WS2812b 144 
+#define BRIGHTNESS 55      // max LED brightness (0 - 255) max 44 for WS2812b 144 
 #define LIGHT_UP_TIME 0.5 //ms per LED on strip
 #define SPEAKER_VOLUME 29    //Depending on power source/amps, too high a volume causes the system to have errors.
 
@@ -693,7 +693,7 @@ long voltage_measure() {
   else //assume 4 AA/AAA rechargeables
   {
       int volts = voltage * 100.0/4.0;    // 4 cells!!!
-      return map(volts, 100, 150, 0, 100);
+      return map(volts, 100, 130, 0, 100); //130 due to 1.3 V max per battery
   }
 }
 

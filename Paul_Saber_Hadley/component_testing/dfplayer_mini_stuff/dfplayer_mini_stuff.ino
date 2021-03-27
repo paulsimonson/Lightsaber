@@ -61,7 +61,7 @@ void setup()
   }
   else Serial.println(F("DFPlayer Mini online."));
 
-  myDFPlayer.volume(15);  //Set volume value. From 0 to 30
+  myDFPlayer.volume(30);  //Set volume value. From 0 to 30
   myDFPlayer.play(1);  //Play the first mp3
 }
 
